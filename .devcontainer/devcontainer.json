@@ -1,0 +1,9 @@
+{
+	"name": "Cheap Gif",
+	"build": {
+		"dockerfile": "Dockerfile",
+	},
+	"extensions": [
+		"ms-vscode.cpptools"
+	]
+}
